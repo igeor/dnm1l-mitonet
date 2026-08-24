@@ -2,9 +2,10 @@
 
 Deep learning code accompanying:
 
-> Musokhranova, Georvasilis, Illescas, Saritzoglou, Frías, Roldán, Ardissone,
-> Moroni, García-Cazorla, Oyarzábal. **AI-Based Mitochondrial Network
-> Characterization as a Biomarker for DNM1L-Related Disease Diagnosis.** 2026.
+> U. Musokhranova, I. Georvasilis, S. Illescas, M. Saritzoglou, M. Frías,
+> M. Roldán, A. Ardissone, I. Moroni, À. García-Cazorla, A. Oyarzábal\*.
+> **AI-Based Mitochondrial Network Characterization as a Biomarker for
+> DNM1L-Related Disease Diagnosis.** 2026.
 
 Pathogenic variants in *DNM1L* impair Drp1, a key regulator of mitochondrial
 fission, producing a hyperfused, elongated mitochondrial network in patient
