@@ -1,0 +1,12 @@
+torch>=2.0
+torchvision>=0.15
+numpy>=1.23
+pandas>=1.5
+scikit-learn>=1.2
+Pillow>=9.0
+tifffile>=2023.1.0
+opencv-python-headless>=4.7
+tqdm>=4.65
+
+# Only required for scripts/prepare_dataset.py (raw .lif -> TIFF conversion)
+readlif>=0.6

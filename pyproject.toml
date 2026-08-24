@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dnm1l-mitonet"
+version = "0.1.0"
+description = "Deep learning classification of mitochondrial network morphology for DNM1L-related disease diagnosis"
+readme = "README.md"
+requires-python = ">=3.9"
+
+[tool.setuptools.packages.find]
+where = ["src"]

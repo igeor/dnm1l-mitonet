@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+build/
+dist/
+
+# Local experiment outputs
+results/
+
+# Dataset is closed/private: never track its contents, only the folder itself
+data/*
+!data/README.md
+!data/.gitkeep
+
+.DS_Store
