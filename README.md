@@ -24,11 +24,6 @@ Two training strategies are implemented, selected purely by config:
   approach reported in the paper (77% accuracy, 0.92 AUC vs. 60% / 0.85 for
   direct fine-tuning).
 
-This repository only covers the deep learning pipeline. The classical
-machine-learning baselines reported in the paper (Random Forest, SVM,
-Multinomial Logistic Regression on hand-engineered Mitochondria Analyzer
-features) are not included here.
-
 ## Repository layout
 
 ```
